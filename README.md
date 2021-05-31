@@ -3,11 +3,11 @@
 The purpose of the project was to create a dynamic webpage that would display data from UFO sightings across the US. The webpage for the modules had a button that would filter the data by date. The purpose of the challenge was to add filters for city, state, country, and shape. In the final webpage, there was no search button and the webpage automatically updated when one presses enter on the keyboard after populating the filter fields.
 ### Resources
 Python, Jupyter Notebooks, Tableau
-[Data]()
+
 
 ## Results
 
-![image_1]https://github.com/jackogross123/bikesharing/blob/main/resources/Screen%20Shot%202021-05-31%20at%205.53.09%20PM.png)
+![image_1](https://github.com/jackogross123/bikesharing/blob/main/resources/Screen%20Shot%202021-05-31%20at%205.53.09%20PM.png)
 
 ![image_2](https://github.com/jackogross123/bikesharing/blob/main/resources/Screen%20Shot%202021-05-31%20at%205.53.41%20PM.png)
 
