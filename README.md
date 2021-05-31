@@ -1,9 +1,11 @@
 # Bike Sharing
 ## Overview of Project
-The purpose of the project was to create a dynamic webpage that would display data from UFO sightings across the US. The webpage for the modules had a button that would filter the data by date. The purpose of the challenge was to add filters for city, state, country, and shape. In the final webpage, there was no search button and the webpage automatically updated when one presses enter on the keyboard after populating the filter fields.
+The purpose of the project was to create a dynamic dashboard that would help visualize data on the Citibike service in New York City. 
+
 ### Resources
 Python, Jupyter Notebooks, Tableau
 
+[Link to dashboard](https://public.tableau.com/app/profile/jack1321/viz/CitiBikeChallenge_16224969140120/NYCCitibikeStory)
 
 ## Results
 
